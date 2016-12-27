@@ -1,0 +1,8 @@
+
+ 
+记录时间：2016-08-12 14:25:16,826 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：invalid media_id hint: [KgMSLa0124e297]
+ 

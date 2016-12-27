@@ -1,0 +1,77 @@
+
+ 
+记录时间：2016-08-09 10:18:03,144 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：date range error hint: [vgvBTa0084ube3]
+ 
+
+ 
+记录时间：2016-08-09 10:56:54,171 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：reach max api daily quota limit hint: [F7GGka0416ube1]
+ 
+
+ 
+记录时间：2016-08-09 11:40:54,443 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：Error
+ 
+System.InvalidOperationException: 数组的反序列化不支持类型“WeChatEntities.StatisticalList”。
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertListToObject(IList list, Type type, JavaScriptSerializer serializer, Boolean throwOnError, IList& convertedList)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeInternal(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeMain(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.AssignToPropertyOrField(Object propertyValue, Object o, String memberName, JavaScriptSerializer serializer, Boolean throwOnError)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertDictionaryToObject(IDictionary`2 dictionary, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeInternal(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeMain(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   在 WeChatHelper.Request.GetCutBackStatisticsRequest.ParseHtmlToResponse(String body) 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatHelper\Request\GetCutBackStatisticsRequest.cs:行号 73
+   在 WeChatHelper.MpClient.Execute[T](IMpRequest`1 request) 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatHelper\MpClient.cs:行号 67
+   在 WeChatAPI.DAL.StatisticsOperation.UserAnalysisMethod() 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatAPI\DAL\StatisticsOperation.cs:行号 46
+
+ 
+记录时间：2016-08-09 11:54:29,237 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：reach max api daily quota limit hint: [HTv4ba0871ube3]
+ 
+
+ 
+记录时间：2016-08-09 11:56:00,063 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：date range error hint: [t2L.8a0962ube3]
+ 
+
+ 
+记录时间：2016-08-09 11:57:04,189 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：date range error hint: [5Upyea0026ube3]
+ 
+
+ 
+记录时间：2016-08-09 15:10:44,615 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：reach max api daily quota limit hint: [_4fm6a0646ube3]
+ 
+
+ 
+记录时间：2016-08-09 16:10:02,679 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.UserGroupOperation property: [(null)] - 
+错误描述：invalid openid hint: [iHG8Ea0204vr18]
+ 

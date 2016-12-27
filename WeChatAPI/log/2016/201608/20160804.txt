@@ -1,0 +1,16 @@
+
+ 
+记录时间：2016-08-04 15:42:15,121 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：WeChatAPI.Page.UserGroup property: [(null)] - 
+错误描述：110
+ 
+
+ 
+记录时间：2016-08-04 15:45:42,719 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：WeChatAPI.Page.UserGroup property: [(null)] - 
+错误描述：日志内容
+ 

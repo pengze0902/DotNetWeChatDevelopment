@@ -1,0 +1,24 @@
+
+ 
+记录时间：2016-08-05 09:43:50,954 
+线程ID:[424] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.UserGroupOperation property: [(null)] - 
+错误描述：Error
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 WeChatHelper.Request.SetUpUserRemarkName.ParseHtmlToResponse(String body) 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatHelper\Request\SetUpUserRemarkName.cs:行号 80
+   在 WeChatHelper.MpClient.Execute[T](IMpRequest`1 request) 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatHelper\MpClient.cs:行号 67
+   在 WeChatAPI.DAL.UserManagementOperation.RemarkName(String openid, String name) 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatAPI\DAL\UserManagementOperation.cs:行号 39
+
+ 
+记录时间：2016-08-05 09:44:37,150 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.UserManagementOperation property: [(null)] - 
+错误描述：Error
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 WeChatHelper.Request.SetUpUserRemarkName.ParseHtmlToResponse(String body) 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatHelper\Request\SetUpUserRemarkName.cs:行号 80
+   在 WeChatHelper.MpClient.Execute[T](IMpRequest`1 request) 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatHelper\MpClient.cs:行号 67
+   在 WeChatAPI.DAL.UserManagementOperation.RemarkName(String openid, String name) 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatAPI\DAL\UserManagementOperation.cs:行号 39

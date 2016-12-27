@@ -1,0 +1,98 @@
+
+ 
+记录时间：2016-08-08 10:39:00,953 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WeChatEntities.StatisticalDataList property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: String 引用没有设置为 String 的实例。
+参数名: s
+   在 WeChatHelper.Util.WebUtils.DoPost(String url, String postData) 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatHelper\Util\WebUtils.cs:行号 48
+   在 WeChatHelper.MpClient.Execute[T](IMpRequest`1 request) 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatHelper\MpClient.cs:行号 58
+   在 WeChatAPI.DAL.StatisticsOperation.UserAnalysisMethod() 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatAPI\DAL\StatisticsOperation.cs:行号 34
+
+ 
+记录时间：2016-08-08 10:49:48,644 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：WeChatEntities.StatisticalDataList property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: String 引用没有设置为 String 的实例。
+参数名: s
+   在 WeChatHelper.Util.WebUtils.DoPost(String url, String postData) 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatHelper\Util\WebUtils.cs:行号 48
+   在 WeChatHelper.MpClient.Execute[T](IMpRequest`1 request) 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatHelper\MpClient.cs:行号 58
+   在 WeChatAPI.DAL.StatisticsOperation.UserAnalysisMethod() 位置 D:\微信公众平台开发\WeChat\WeChat\WeChatAPI\DAL\StatisticsOperation.cs:行号 38
+
+ 
+记录时间：2016-08-08 10:52:38,227 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：WeChatEntities.StatisticalDataList property: [(null)] - 
+错误描述：date format error hint: [zqvtja0758ube3]
+ 
+
+ 
+记录时间：2016-08-08 11:03:33,280 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WeChatEntities.StatisticalDataList property: [(null)] - 
+错误描述：date format error hint: [Q1O9ca0413ube1]
+ 
+
+ 
+记录时间：2016-08-08 11:17:13,446 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WeChatEntities.StatisticalDataList property: [(null)] - 
+错误描述：date format error hint: [tfPGba0168ube3]
+ 
+
+ 
+记录时间：2016-08-08 11:53:17,136 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WeChatEntities.StatisticalDataList property: [(null)] - 
+错误描述：date format error hint: [_W2MHA0379ube3]
+ 
+
+ 
+记录时间：2016-08-08 12:54:19,114 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WeChatEntities.StatisticalDataList property: [(null)] - 
+错误描述：date format error hint: [oU2Kma0059ube1]
+ 
+
+ 
+记录时间：2016-08-08 12:55:27,110 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WeChatEntities.StatisticalDataList property: [(null)] - 
+错误描述：date format error hint: [h4IeAa0100re46]
+ 
+
+ 
+记录时间：2016-08-08 12:56:28,787 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WeChatEntities.StatisticalDataList property: [(null)] - 
+错误描述：reach max api daily quota limit hint: [jkajsa0188ube1]
+ 
+
+ 
+记录时间：2016-08-08 16:20:48,093 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：WeChatEntities.StatisticalDataList property: [(null)] - 
+错误描述：reach max api daily quota limit hint: [6hO3Da0448re46]
+ 
+
+ 
+记录时间：2016-08-08 17:17:43,190 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：date format error hint: [5Dlnla0850ube1]
+ 

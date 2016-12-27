@@ -1,0 +1,8 @@
+
+ 
+记录时间：2016-08-10 17:39:19,103 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：invalid media_id hint: [JcBmsA0962e297]
+ 

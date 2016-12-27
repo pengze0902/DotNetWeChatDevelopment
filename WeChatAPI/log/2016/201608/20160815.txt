@@ -1,0 +1,64 @@
+
+ 
+记录时间：2016-08-15 08:59:22,170 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：empty news data hint: [sKt60a0775e297]
+ 
+
+ 
+记录时间：2016-08-15 09:34:23,404 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：invalid message type hint: [iq7gta0874ge12]
+ 
+
+ 
+记录时间：2016-08-15 16:58:39,657 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：invalid message type hint: [2sUVIa0534zbg7]
+ 
+
+ 
+记录时间：2016-08-15 16:58:46,080 
+线程ID:[5] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：has no masssend quota hint: [v3F9qa0542zbg9]
+ 
+
+ 
+记录时间：2016-08-15 17:10:55,447 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：invalid message type hint: [Bz4M60271ge13]
+ 
+
+ 
+记录时间：2016-08-15 17:12:03,563 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：has no masssend quota hint: [Mlnhaa0339age9]
+ 
+
+ 
+记录时间：2016-08-15 17:18:54,588 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：has no masssend quota hint: [VPZBbA0750age1]
+ 
+
+ 
+记录时间：2016-08-15 17:19:08,312 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：WeChatAPI.DAL.StatisticsOperation property: [(null)] - 
+错误描述：invalid message type hint: [YjIuVA0764age3]
+ 
